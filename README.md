@@ -1,4 +1,4 @@
-# awesome-dev-resources
+# Awesome-Dev-Resources
 A collaborative list of great resources about development. Feel free to contribute to this on-goint list.
 
 * [Blockchain Fundamentals](#blockchain-fundamentals)
