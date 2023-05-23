@@ -1,7 +1,7 @@
 # awesome-dev-resources
 A collaborative list of great resources about development. Feel free to contribute to this on-goint list.
 
-* [Event Sourcing](#articles)
+* [Event Sourcing](#event-sourcing)
 
 
 ## Event Sourcing
