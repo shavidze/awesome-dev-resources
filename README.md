@@ -3,7 +3,7 @@ A collaborative list of great resources about development. Feel free to contribu
 
 * [Blockchain Fundamentals](#blockchain-fundamentals)
 * [Event Sourcing](#event-sourcing)
-* [Cheat Sheet Serues](#cheat-sheet-series)
+* [Cheat Sheet Series](#cheat-sheet-series)
 
 ## Blockchain Fundamentals
  * [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf)
